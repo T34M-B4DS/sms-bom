@@ -20,7 +20,6 @@ $ git clone https://github.com/T34M-B4DS/sms-bom
 $ cd sms-bom
 
 $ python bom.py
-
 <br>
 <h6>BANGLADESH ANONYMOUS DEFANCE SQUAD</h6>
 
