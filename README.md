@@ -14,8 +14,7 @@ $ pkg install git
 
 $ pkg install python
 
-$ git clone 
-
+$ git clone https://github.com/T34M-B4DS/sms-bom
 
 $ cd sms-bom
 
