@@ -2,11 +2,11 @@
 <img src="https://i.ibb.co/2Snnq8b/20211130-142512.png" height="250" width="250><br>
 </h1>
 <br>
-Assalamu Alaikum,
-Dear All Friends Tool Maked By m4d s0ul
+`Assalamu Alaikum,
+Dear All Friends Tool Maked By m4d s0ul`
 
 
-<h3>-TOOL RUN COMMAND-</h3>
+`<h3>-TOOL RUN COMMAND-</h3>`
 
 ```
 $ pip install requests
