@@ -1,5 +1,5 @@
 <h1 align="center">M4D S0UL
-<img src="https://i.ibb.co/2Snnq8b/20211130-142512.png" height="250" width="250><br>
+<img src="https://i.ibb.co/2Snnq8b/20211130-142512.png"/><br>
 </h1>
 <br>
 `Assalamu Alaikum,
