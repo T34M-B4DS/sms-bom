@@ -36,4 +36,4 @@ $ python bom.py
 ## Follows us on social media
 <p align="center">
 <a href="https://www.facebook.com/106114485064384"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=Facebook"></a>
-<a href="https://github.com/T34M-B4DS"><img title="Github" src="https://i.ibb.co/DGYPDvK/20211218-130818.png"></a>
+<a href="https://github.com/T34M-B4DS"><img title="Github" src="https://i.ibb.co/c2JKszB/20211218-130818.jpg"></a>
